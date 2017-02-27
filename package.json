@@ -1,0 +1,23 @@
+{
+  "name": "animatecss-helper",
+  "version": "0.0.1",
+  "description": "A JavaScript helper for animate.css",
+  "main": "animatecss-helper.js",
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itggot-joel-eriksson/animatecss-helper.git"
+  },
+  "author": "Joel Eriksson <joel.eriksson@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itggot-joel-eriksson/animatecss-helper/issues"
+  },
+  "homepage": "https://github.com/itggot-joel-eriksson/animatecss-helper#readme"
+}
