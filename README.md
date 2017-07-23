@@ -6,11 +6,7 @@ The script will add two classes; `animated` and the specified animation's name, 
 
 ## Installing
 ```bash
-$ git clone https://github.com/itggot-joel-eriksson/animatecss-helper
-```
-It also works with bower:
-```bash
-$ bower install itggot-joel-eriksson/animatecss-helper
+$ git clone https://github.com/joel-eriksson/animatecss-helper
 ```
 
 ## Usage
@@ -27,16 +23,16 @@ Include the script
 ### Add animation to a DOM element
 ```js
 document.querySelector("#demo").animateCss("tada").then(function(element) {
-	console.log("Done animating", element);
+  console.log("Done animating", element);
 });
 ```
 
 ### Add animation to multiple DOM elements
 ```js
 document.querySelectorAll(".demo").animateCss("tada").then(function(elements) {
-	console.log("Done animating", elements);
+  console.log("Done animating", elements);
 });
 ```
 
 ## License
-[MIT](LICENSE) &copy; [Joel Eriksson](https://github.com/itggot-joel-eriksson)
+[MIT](LICENSE) &copy; [Joel Eriksson](https://github.com/joel-eriksson)
