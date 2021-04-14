@@ -6,7 +6,7 @@ The script will add two classes; `animated` and the specified animation's name, 
 
 ## Installing
 ```bash
-$ git clone https://github.com/joel-eriksson/animatecss-helper
+$ git clone https://github.com/theswedishdev/animatecss-helper
 ```
 
 ## Usage
@@ -35,4 +35,4 @@ document.querySelectorAll(".demo").animateCss("tada").then(function(elements) {
 ```
 
 ## License
-[MIT](LICENSE) &copy; [Joel Eriksson](https://github.com/joel-eriksson)
+[MIT](LICENSE) &copy; [Joel Ericsson](https://github.com/theswedishdev)

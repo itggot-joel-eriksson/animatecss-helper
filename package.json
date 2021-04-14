@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joel-eriksson/animatecss-helper.git"
+    "url": "git+https://github.com/theswedishdev/animatecss-helper.git"
   },
-  "author": "Joel Eriksson <joel.eriksson@protonmail.com>",
+  "author": "Joel Ericsson <joel.eriksson@protonmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joel-eriksson/animatecss-helper/issues"
+    "url": "https://github.com/theswedishdev/animatecss-helper/issues"
   },
-  "homepage": "https://github.com/joel-eriksson/animatecss-helper#readme"
+  "homepage": "https://github.com/theswedishdev/animatecss-helper#readme"
 }
